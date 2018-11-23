@@ -1,0 +1,4 @@
+slogs/*.txt
+ctr_server
+.idea/
+settings/settings.go
